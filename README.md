@@ -1,0 +1,2 @@
+# soruBankasi
+soru bankası c 
